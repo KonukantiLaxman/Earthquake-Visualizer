@@ -49,8 +49,31 @@ earthquake-visualizer/
 ⏱ Auto-refresh every X minutes
 📊 Add charts for magnitude distribution
 
-🙋‍♂️ Author & Contact Laxman konukati – Full Stack Java Developer 📧 kl752008@gmail.com If you find this project useful, please ⭐ star the repository and share it with others!
 
+📚 Cite This Work:
+
+If this project helps your research or products, please cite:
+
+@software{konukati2025cyberbullying,
+  author  = {Konukati, Laxman},
+  title   = {Deep Learning Neural Network for Cyberbullying Detection in Social Media},
+  year    = {2025},
+  url     = {https://github.com/KonukantiLaxman/my-major-project}
+
+
+📩 Contact:
+
+Laxman Konukati
+
+Email: kl752008@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/konukati-laxman-6856092a5/
+
+GitHub: https://github.com/KonukantiLaxman
+
+📝 License:
+
+This project is licensed under the MIT License — see LICENSE
 
 
 
