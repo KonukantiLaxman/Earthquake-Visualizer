@@ -1,12 +1,12 @@
-🌍 Earthquake Visualizer
+**🌍 Earthquake Visualizer**
 
 An interactive real-time earthquake dashboard that fetches live data from the USGS Earthquake API and displays it on an interactive map with filters and futuristic UI.
+
 ✨ Features:
 
 📡 Live Data — Fetches latest earthquake data (past day, week, or month).
 
 🌐 Interactive Map — Built with Leaflet.js
-.
 
 🔴 Markers with Severity — Color and size represent magnitude.
 
