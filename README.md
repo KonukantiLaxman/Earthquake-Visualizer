@@ -43,11 +43,13 @@ earthquake-visualizer/
 <img width="1906" height="902" alt="Screenshot 2025-08-28 163737" src="https://github.com/user-attachments/assets/213d51c4-eca4-44ca-814c-51acf259ca82" />
 
 📌 Future Enhancements:
+
 🔥 Heatmap view for global seismic density
 📱 Better mobile responsiveness
 ⏱ Auto-refresh every X minutes
 📊 Add charts for magnitude distribution
 
+🙋‍♂️ Author & Contact Laxman konukati – Full Stack Java Developer 📧 kl752008@gmail.com If you find this project useful, please ⭐ star the repository and share it with others!
 
 
 
