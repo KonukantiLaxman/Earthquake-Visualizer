@@ -29,6 +29,7 @@ git clone https://github.com/KonukantiLaxman/earthquake-visualizer.git
 cd earthquake-visualizer
 
 🌐 Live Demo:
+https://konukantilaxman.github.io/Earthquake-Visualizer/
 
 
 📂 Project Structure:
